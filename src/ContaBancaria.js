@@ -1,4 +1,4 @@
-class ContaBancaria {
+class contaBancaria {
   constructor(conta) {
     this.conta = conta;
   }
@@ -138,4 +138,4 @@ class ContaBancaria {
   }
 }
 
-module.exports = ContaBancaria;
+module.exports = contaBancaria;

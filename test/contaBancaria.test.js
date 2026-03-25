@@ -1,6 +1,6 @@
 const ContaBancaria = require('../src/contaBancaria');
 
-describe('ContaBancaria', () => {
+describe('contaBancaria', () => {
   let conta;
   let contaBancaria;
 
